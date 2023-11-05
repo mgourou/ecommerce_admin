@@ -1,0 +1,8 @@
+@tailwind base;
+@tailewind components;
+@tailwind utilities;
+
+
+body {
+    margin: 0;
+}
